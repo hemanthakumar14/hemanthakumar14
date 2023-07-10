@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hemanthakumar14
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Data science course 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data science 
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me ...
 
 <!---
